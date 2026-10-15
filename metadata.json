@@ -1,0 +1,6 @@
+{
+  "name": "TopicalGap - SEO Content Gap Analyzer",
+  "description": "Professional SEO content gap analysis & topical architecture platform using 3-month Google Search Console exports with Google Drive, Sheets, and Docs integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
